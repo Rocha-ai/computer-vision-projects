@@ -1,0 +1,1 @@
+Computer vision using Deep Learning for instance segmentation, classification, and adversarial attacks. The code will not run as the data is on Kaggle. Project for the computer vision course at KU Leuven. 
